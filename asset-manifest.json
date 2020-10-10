@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/portfolio-template/static/css/main.69eda509.chunk.css",
-    "main.js": "/portfolio-template/static/js/main.b81bdca6.chunk.js",
-    "main.js.map": "/portfolio-template/static/js/main.b81bdca6.chunk.js.map",
+    "main.js": "/portfolio-template/static/js/main.1813c105.chunk.js",
+    "main.js.map": "/portfolio-template/static/js/main.1813c105.chunk.js.map",
     "runtime-main.js": "/portfolio-template/static/js/runtime-main.dce5ca78.js",
     "runtime-main.js.map": "/portfolio-template/static/js/runtime-main.dce5ca78.js.map",
-    "static/css/2.df902c81.chunk.css": "/portfolio-template/static/css/2.df902c81.chunk.css",
-    "static/js/2.7ca3c726.chunk.js": "/portfolio-template/static/js/2.7ca3c726.chunk.js",
-    "static/js/2.7ca3c726.chunk.js.map": "/portfolio-template/static/js/2.7ca3c726.chunk.js.map",
+    "static/css/2.5d75396a.chunk.css": "/portfolio-template/static/css/2.5d75396a.chunk.css",
+    "static/js/2.56834add.chunk.js": "/portfolio-template/static/js/2.56834add.chunk.js",
+    "static/js/2.56834add.chunk.js.map": "/portfolio-template/static/js/2.56834add.chunk.js.map",
     "index.html": "/portfolio-template/index.html",
-    "precache-manifest.ea721ea6cac538fbf8711df5fdcb74f2.js": "/portfolio-template/precache-manifest.ea721ea6cac538fbf8711df5fdcb74f2.js",
+    "precache-manifest.6bfaf28197b1a61374f5f28bcd483ced.js": "/portfolio-template/precache-manifest.6bfaf28197b1a61374f5f28bcd483ced.js",
     "service-worker.js": "/portfolio-template/service-worker.js",
-    "static/css/2.df902c81.chunk.css.map": "/portfolio-template/static/css/2.df902c81.chunk.css.map",
+    "static/css/2.5d75396a.chunk.css.map": "/portfolio-template/static/css/2.5d75396a.chunk.css.map",
     "static/css/main.69eda509.chunk.css.map": "/portfolio-template/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.7ca3c726.chunk.js.LICENSE.txt": "/portfolio-template/static/js/2.7ca3c726.chunk.js.LICENSE.txt",
+    "static/js/2.56834add.chunk.js.LICENSE.txt": "/portfolio-template/static/js/2.56834add.chunk.js.LICENSE.txt",
     "static/media/WOLFGEO.jpg": "/portfolio-template/static/media/WOLFGEO.6ced16a7.jpg",
     "static/media/primereact.min.css": "/portfolio-template/static/media/color.c7a33805.png",
     "static/media/primeicons.css": "/portfolio-template/static/media/primeicons.79432094.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.dce5ca78.js",
-    "static/css/2.df902c81.chunk.css",
-    "static/js/2.7ca3c726.chunk.js",
+    "static/css/2.5d75396a.chunk.css",
+    "static/js/2.56834add.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.b81bdca6.chunk.js"
+    "static/js/main.1813c105.chunk.js"
   ]
 }
